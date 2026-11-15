@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "PlayStation 5 DualSense App",
+    "slug": "playstation-5-dualsense-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "scheme": "playstation5dualsenseapp",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#30B2E2"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}

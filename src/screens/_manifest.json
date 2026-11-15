@@ -1,0 +1,29 @@
+{
+ "app": "PlayStation 5 DualSense App",
+ "start": "home",
+ "screens": [
+  {
+   "slug": "pdp",
+   "name": "PDP",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 72,
+   "links": 2
+  },
+  {
+   "slug": "home",
+   "name": "home",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 74,
+   "links": 1
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "montserrat",
+  "poppins"
+ ]
+}
